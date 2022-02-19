@@ -1,4 +1,4 @@
-# Clustering extravaganza
+e# Clustering extravaganza
 
 The goal of this project is to get more practice implementing algorithms, as well as translating pseudocode algorithms to Python. This project is also very loosely defined as it is meant to be much more realistic. Previously, I very carefully laid out exactly the process for you to follow. Now, you will have to think about the whole problem and plan your approach. Further, the exact assessment rubric is not specified. Your goal is to produce a notebook (and submit a PDF version) that is a kind of report or tutorial you might publish, detailing your exploration of kmeans and other clustering algorithms. This will be useful artifact to send to potential employers.  (*But, please don't post your results publicly on the Internet as I will likely use these projects in the future*.) With probability 92.5%, you will be asked to describe kmeans clustering during interviews.
 
